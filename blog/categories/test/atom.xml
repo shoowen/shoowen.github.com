@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | Shoowen's blog]]></title>
+  <link href="http://showowen.github.com/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://showowen.github.com/"/>
+  <updated>2013-01-31T20:38:36+08:00</updated>
+  <id>http://showowen.github.com/</id>
+  <author>
+    <name><![CDATA[Derin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blog for test]]></title>
+    <link href="http://showowen.github.com/blog/2013/01/31/blog-for-test/"/>
+    <updated>2013-01-31T20:29:00+08:00</updated>
+    <id>http://showowen.github.com/blog/2013/01/31/blog-for-test</id>
+    <content type="html"><![CDATA[<p>Hello everyone, this is my firt blog which is written by Octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>

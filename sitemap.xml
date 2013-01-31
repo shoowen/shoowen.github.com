@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://showowen.github.com/blog/2013/01/31/post-title/</loc>
+        <lastmod>2013-01-31T16:33:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://showowen.github.com/blog/2013/01/31/blog-for-test/</loc>
+        <lastmod>2013-01-31T20:37:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://showowen.github.com/robots.txt</loc>
+        <lastmod>2013-01-31T15:55:02+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://showowen.github.com/</loc>
+        <lastmod>2013-01-31T20:37:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://showowen.github.com/blog/archives/</loc>
+        <lastmod>2013-01-31T20:37:42+08:00</lastmod>
+    </url>
+</urlset>
